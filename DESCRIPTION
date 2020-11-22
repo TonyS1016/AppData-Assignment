@@ -1,0 +1,11 @@
+Package: Assignment
+Type: Package
+Title: Showcases evidence of understanding how Packages work 
+Version: 0.1.0
+Author: Tony Sun (Tianyu)
+Maintainer: The package maintainer <tonysun9810@gmail.com>
+Description: Has 5 functions in it wiht the relevant documentation 
+License: Oregon State University 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
